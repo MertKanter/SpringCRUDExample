@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+input {
+    border-radius: 5px;
+    border-width: 0.2px;
+    margin: 5px;
+}
+
+.button {
+    width: 120px;
+    margin: 20px;
+}
+
+#box {
+    background-color: #DDFFBB;
+}
+#employeeListId, #employeeList{
+    display: none;
+}
+table, th, tr, td {
+    border: solid 1px #000;
+    margin: 5px;
+}
